@@ -98,6 +98,7 @@ namespace list_app_3
         public void Remove(T value)
         {
             //Додати реалізацію метода
+            //Hello
         }
 
         public bool Find(T value)
